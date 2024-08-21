@@ -2,6 +2,10 @@
 <h3 align="center">Software Developer, Front-End Developers Using Angular</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="AbdelghaneOmar" /> </p>
 
+<div align=center>
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+</div>
+
 <!-- - 🔭 I’m currently working on **Obelaw Documentation** -->
 
 - 🔭 I’m currently working at Freelance work
