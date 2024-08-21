@@ -1,6 +1,3 @@
-![Hey there, I'm AbdelGhane . I'm a software developer, Front-End Developers Using Angular](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
-
-
 <h1 align="center">Hi 👋, I'm AbdelGhane</h1>
 <h3 align="center">Software Developer, Front-End Developers Using Angular</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="AbdelghaneOmar" /> </p>
